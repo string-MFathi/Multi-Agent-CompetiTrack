@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac OS artifacts
+.DS_Store
+
+# LangChain/LangSmith
+*.sqlite3
